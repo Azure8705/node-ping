@@ -1,0 +1,11 @@
+{
+  "name": "node-ping",
+  "version": "1.0.0",
+  "description": "ping a computer with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Liwag",
+  "license": "ISC"
+}
